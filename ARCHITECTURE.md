@@ -313,6 +313,8 @@ Si necesitás mensajes de validación localizados, usar:
 ### Testing
 - Mockear el repositorio en services: `jest.fn().mockResolvedValue(...)`.
 - E2E con `Test.createTestingModule()` + `supertest`.
+- Estandar obligatorio de este starter: usar **Jest** para unit y e2e.
+- No introducir frameworks alternativos de testing sin excepcion justificada.
 
 ---
 

@@ -20,6 +20,8 @@ Incluye:
 - **Seeds** automáticos de roles y usuarios
 - **Base de datos opcional**: MySQL · PostgreSQL · SQLite · MongoDB
 
+**Fuera de alcance de la plantilla:** empleos (jobs), facturación (invoices) y trading u órdenes de mercado. Si los necesitás, sumá módulos y tablas en tu fork o proyecto derivado.
+
 ---
 
 ## Requisitos del sistema

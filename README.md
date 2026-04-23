@@ -93,6 +93,13 @@ npm run lint      # ESLint + Prettier
 npm run test      # Jest
 ```
 
+## Testing (estandar del starter)
+
+- Framework oficial para tests en este starter: **Jest**.
+- Unit tests: `*.spec.ts`.
+- E2E: Jest + Supertest (`test/jest-e2e.json`).
+- Si se requiere otro framework, debe justificarse como excepcion arquitectonica.
+
 ## Variables de entorno
 
 | Variable | Descripción | Requerida |
